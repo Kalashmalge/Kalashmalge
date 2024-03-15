@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Kalashmalge
 - 👀 I’m interested in Java and Andriod
 - 🌱 I’m currently learning Advance java and Android
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me malgekalash@gmail.com
-- 😄 Pronouns: He/Him
+
 
 
 <!---
