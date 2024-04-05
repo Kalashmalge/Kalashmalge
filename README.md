@@ -1,6 +1,6 @@
 ![logo](https://github.com/Kalashmalge/Kalashmalge/blob/main/Personal%20Profile%20%20Banner.png)
 <h1 align="center">Hi 👋, I'm Kalash Malge</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+<h3 align="center">A passionate Android & Java developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-icon.png">
 
 - 🌱 I’m currently learning **Android , Frameworks**
