@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **malgekalash@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xmaUBOU7kTkSMvG_iynimyJSgyhBijCN/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ygii7DqfdmZ_xwwdYd6OfZfwyADxLXzV/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
